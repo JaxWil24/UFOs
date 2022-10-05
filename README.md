@@ -1,4 +1,5 @@
-# UFOs![Pic  of UFO](https://user-images.githubusercontent.com/106329824/187042640-d405f202-02ef-4b9f-805b-3f4c78f12e34.png)
+# UFOs
+![Pic  of UFO](https://user-images.githubusercontent.com/106329824/187042640-d405f202-02ef-4b9f-805b-3f4c78f12e34.png)
 
 
 
@@ -10,7 +11,8 @@ This analysis is of UFO sightings. The purpose is to single out these sightings 
 ## Results
 * In order to sift through the data, the first step is to open the HTML file called 'index'.![Pic  of Index](https://user-images.githubusercontent.com/106329824/187041907-b5bf746e-1d4c-44a2-ac4f-b40dce7641fb.png)
 * This will get you to the website that is already loaded with all the data in the original file. 
-* In order to search, you pick from any of the five fields. ![Pic  of Fields](https://user-images.githubusercontent.com/106329824/187042101-c4ee5d63-2146-4834-81cf-078b43a5dedc.png)
+* In order to search, you pick from any of the five fields.  
+ ![Pic  of Fields](https://user-images.githubusercontent.com/106329824/187042101-c4ee5d63-2146-4834-81cf-078b43a5dedc.png)
 * Filling out those fields and pressing enter will give an output of the desired sightings. 
 ![Pic  of the Fields Used](https://user-images.githubusercontent.com/106329824/187042439-7f3c350b-f11c-4f87-9997-1850130291e2.png)
 
