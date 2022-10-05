@@ -16,4 +16,4 @@ This analysis is of UFO sightings. The purpose is to single out these sightings 
 
 
 ## Summary
-Overall, this page and analysis is helpul in quick parsing through data. A set back of the design is the data will not continue to update as more sightings go on. A recommendation I have is to use an api instead of a single dataset. Another recommendation would be to add a comment section or the ability to like specific sightings on the HTML file. This would allow more interaction for those doing research on unidentified flying objects. 
+Overall, this page and analysis is helpful in quick parsing through data. A set back of the design is the data will not continue to update as more sightings go on. A recommendation I have is to use an api instead of a single dataset. Another recommendation would be to add a comment section or the ability to like specific sightings on the HTML file. This would allow more interaction for those doing research on unidentified flying objects.
